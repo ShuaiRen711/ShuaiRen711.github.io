@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 I'm a first-year graduate student. My research interest includes computer vision, computer graphics, machine learning, and computational photography.
-
-[Email](shuairen811@gmail.com) / [Github](https://github.com/ShuaiRen711))
