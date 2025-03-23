@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in School of Data Science , GitHub University, 2024
-* B.S. in School of Automation, Northwestern Polytechnical University, 2020
+* M.S. in School of Data Science
+* B.S. in School of Automation
 
 Work experience
 ======
