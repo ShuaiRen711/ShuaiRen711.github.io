@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year graduate student. My research interest includes deep learning, data security & privacy protection and data mining & efficient management.
+I'm a first-year graduate student. My research interest includes deep learning and data mining.
