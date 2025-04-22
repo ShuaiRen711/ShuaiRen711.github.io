@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year graduate student. My research interest includes deep learning and data mining.
+I'm a first-year graduate student. My research interest includes Anomaly Detection and (Dynamic)Graph Management.
